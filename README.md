@@ -187,7 +187,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/stancelous mwongela">
+<a href="https://www.linkedin.com/stancelous mwongela">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
