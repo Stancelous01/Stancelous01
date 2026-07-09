@@ -47,13 +47,11 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 ⚡ Fun Fact
 
-> I don't always test my code...
+> 🤖 I enjoy teaching computers to solve problems...
 >
-> But when I do...
+> until they start asking me harder questions than my university exams. 😂
 >
-> I do it in production.
->
-> 😂😂
+> ☕ Powered by coffee, curiosity, and continuous learning
 
 <br>
 
