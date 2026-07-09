@@ -23,51 +23,21 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 </p>
 
-# 👨‍💻 About Me
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```yaml
-Name:        Stancelous Mwongela
-Location:    Kenya 🇰🇪
-Role:        Software Engineer | AI Engineer
-Education:   BSc Computer Science
+<img align="right" width="390" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-Specialization:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full-Stack Development
-  - Intelligent Systems
+Hello! I'm **Stancelous Mwongela** 👋, a passionate **Software Engineer**, **AI Engineer**, and **Full-Stack Developer** from **Kenya 🇰🇪** with a strong foundation in **Computer Science** and a passion for creating intelligent digital solutions.
 
-Current Mission:
-  Building scalable, AI-powered software that transforms ideas
-  into innovative digital solutions.
+I enjoy designing and developing **AI-powered systems**, **machine learning models**, and **modern web applications** that solve real-world challenges. My expertise spans **Python**, **Java**, **PHP**, **JavaScript**, **TypeScript**, **React**, **Flask**, **FastAPI**, and **MySQL**, complemented by a growing interest in **Cloud Computing**, **Cybersecurity**, and **Data Science**.
 
-Learning:
-  - Cloud Computing ☁️
-  - Cybersecurity 🔐
-  - Generative AI 🤖
-  - Data Science 📊
+Beyond writing code, I'm driven by curiosity, continuous learning, and the pursuit of innovation. I believe technology has the power to improve lives, and my mission is to build software that is **smart, scalable, secure, and impactful**.
 
-Life Motto:
-  "Learn. Build. Innovate. Repeat."
-```
+> **💡 "Transforming ideas into intelligent software, one line of code at a time."**
 
 <br clear="right"/>
-
----
-
-⚡ Fun Fact
-
-> 🤖 I enjoy teaching computers to solve problems...
->
-> until they start asking me harder questions than my university exams. 😂
->
-> ☕ Powered by coffee, curiosity, and continuous learning
-
-<br>
 
 ---
 
