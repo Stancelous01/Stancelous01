@@ -80,7 +80,6 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 
-<br><br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
