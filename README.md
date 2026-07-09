@@ -25,25 +25,39 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-🎓 Bachelor of Science in Computer Science
+<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate Software Engineer
+```yaml
+Name:        Stancelous Mwongela
+Location:    Kenya 🇰🇪
+Role:        Software Engineer | AI Engineer
+Education:   BSc Computer Science
 
-🤖 Artificial Intelligence & Machine Learning
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full-Stack Development
+  - Intelligent Systems
 
-🌐 Full Stack Web Developer
+Current Mission:
+  Building scalable, AI-powered software that transforms ideas
+  into innovative digital solutions.
 
-☁️ Cloud Computing Enthusiast
+Learning:
+  - Cloud Computing ☁️
+  - Cybersecurity 🔐
+  - Generative AI 🤖
+  - Data Science 📊
 
-🔐 Cybersecurity Learner
+Life Motto:
+  "Learn. Build. Innovate. Repeat."
+```
 
-📊 Data Science Explorer
+<br clear="right"/>
 
-🚀 Currently building intelligent software that solves real-world problems.
-
-🌱 Learning something new every single day.
+---
 
 ⚡ Fun Fact
 
@@ -185,20 +199,42 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 # 🤝 Let's Connect
 
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+I'm always open to discussing <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Open Source</strong>, innovative projects, and exciting collaboration opportunities. Feel free to connect—I’d be glad to exchange ideas and build impactful solutions together.
+</p>
+
 <p align="center">
 
-<a href="https://www.linkedin.com/stancelous mwongela">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/stancelous mwongela" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sstancelousmwongela38@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://stancelous mwongela">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
+<a href="https://github.com/Stancelous01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://stancelousmwongela.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://x.com/stancelous mwongela" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Stancelous01&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+⭐ <i>Let's innovate, collaborate, and build technology that makes a difference.</i> 🚀
 </p>
 
 ---
