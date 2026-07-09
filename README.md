@@ -144,16 +144,6 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Stancelous01&theme=algolia&margin-w=12&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
