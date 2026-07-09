@@ -51,14 +51,6 @@ My passion lies at the intersection of **Artificial Intelligence**, **Machine Le
 
 I'm a firm believer that learning never stops. Every project is an opportunity to improve, every challenge is a chance to innovate, and every bug is simply another puzzle waiting to be solved.
 
-### 🚀 Current Mission
-
-- 🧠 Building intelligent AI-powered applications
-- 🌐 Developing scalable full-stack solutions
-- ☁️ Exploring Cloud Computing & DevOps
-- 🔐 Expanding my Cybersecurity knowledge
-- 📚 Learning something new every single day
-
 ---
 ## ⚡ Fun Fact
 
