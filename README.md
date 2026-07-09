@@ -74,20 +74,47 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 ---
 
-## AI • ML • Data Science
+## 🤖 AI • Machine Learning • Data Science
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- XGBoost
-- SHAP
-- Matplotlib
+---
+
+### 🧠 AI Expertise
+
+| 🤖 Area | 🚀 Technologies |
+|---------|-----------------|
+| **Machine Learning** | Scikit-Learn, XGBoost, Random Forest, SVM, Decision Trees |
+| **Deep Learning** | TensorFlow, Keras |
+| **Data Analysis** | Pandas, NumPy |
+| **Data Visualization** | Matplotlib |
+| **Model Explainability** | SHAP |
+| **Computer Vision** | OpenCV |
+| **Notebook Environment** | Jupyter Notebook |
+
+> 💡 **Special Interests:** Fraud Detection • Predictive Analytics • Classification Models • Intelligent Decision Support Systems • Explainable AI (XAI)
 
 ---
 
@@ -95,9 +122,9 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Stancelous01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Stancelous01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -105,7 +132,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stancelous01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +162,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Stancelous01/Stancelous01/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -165,7 +192,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00BFFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Stancelous01&label=Visitors&color=00BFFF&style=for-the-badge"/>
 
 </p>
 
