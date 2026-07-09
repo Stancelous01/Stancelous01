@@ -15,6 +15,13 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 </p>
 
 ---
+# 😂 Joke of the Day
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
 
 # 👨‍💻 About Me
 
@@ -167,15 +174,6 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 ---
 
-# 😂 Joke of the Day
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
 
 # 💭 Developer Quote
 
