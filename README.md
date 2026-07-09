@@ -168,7 +168,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Stancelous01/Stancelous01/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Stancelous01/Stancelous01/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </p>
 
