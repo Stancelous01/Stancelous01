@@ -27,20 +27,48 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 
-<img align="right" width="390" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="390" alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-Hello! I'm **Stancelous Mwongela** 👋, a passionate **Software Engineer**, **AI Engineer**, and **Full-Stack Developer** from **Kenya 🇰🇪** with a strong foundation in **Computer Science** and a passion for creating intelligent digital solutions.
+```text
+> Booting Developer Profile...
+> Loading modules...
+██████████████████████████████████ 100%
 
-I enjoy designing and developing **AI-powered systems**, **machine learning models**, and **modern web applications** that solve real-world challenges. My expertise spans **Python**, **Java**, **PHP**, **JavaScript**, **TypeScript**, **React**, **Flask**, **FastAPI**, and **MySQL**, complemented by a growing interest in **Cloud Computing**, **Cybersecurity**, and **Data Science**.
+✔ Software Engineering
+✔ Artificial Intelligence
+✔ Machine Learning
+✔ Full-Stack Development
+✔ Cloud Computing
+✔ Cybersecurity
+✔ Data Science
 
-Beyond writing code, I'm driven by curiosity, continuous learning, and the pursuit of innovation. I believe technology has the power to improve lives, and my mission is to build software that is **smart, scalable, secure, and impactful**.
+Status: Ready to Build 🚀
+```
 
-> **💡 "Transforming ideas into intelligent software, one line of code at a time."**
+Hello! 👋 I'm **Stancelous Mwongela**, a passionate **Software Engineer**, **AI Engineer**, and **Full-Stack Developer** from **🇰🇪 Kenya**. I enjoy transforming ambitious ideas into intelligent, scalable, and user-centric software that solves real-world problems.
 
-<br clear="right"/>
+My passion lies at the intersection of **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **Modern Web Development**. I love designing systems that are not only functional and secure but also efficient, maintainable, and enjoyable to use. Whether it's developing intelligent applications, architecting backend services, or creating responsive user interfaces, I strive to build technology that creates meaningful impact.
+
+I'm a firm believer that learning never stops. Every project is an opportunity to improve, every challenge is a chance to innovate, and every bug is simply another puzzle waiting to be solved.
+
+### 🚀 Current Mission
+
+- 🧠 Building intelligent AI-powered applications
+- 🌐 Developing scalable full-stack solutions
+- ☁️ Exploring Cloud Computing & DevOps
+- 🔐 Expanding my Cybersecurity knowledge
+- 📚 Learning something new every single day
 
 ---
+## ⚡ Fun Fact
 
+> My code has only two moods:
+>
+> 🟢 "Why was this so easy?"
+>
+> 🔴 "Who wrote this nonsense?"
+>
+> *(Git says it was me.)* 🤦‍♂️🤣
 # 🛠 Tech Arsenal
 
 ## Languages
