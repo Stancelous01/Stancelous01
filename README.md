@@ -141,7 +141,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=12&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Stancelous01&theme=algolia&margin-w=12&no-frame=true"/>
 
 </p>
 
@@ -151,7 +151,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stancelous01&theme=tokyo-night"/>
 
 </p>
 
@@ -201,15 +201,15 @@ Hi 👋, I'm <span style="color:#00BFFF;">Stancelous Mwongela</span>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/stancelous mwongela">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sstancelousmwongela38@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://stancelous mwongela">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
 </a>
 
